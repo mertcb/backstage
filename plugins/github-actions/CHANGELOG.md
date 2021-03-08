@@ -1,5 +1,21 @@
 # @backstage/plugin-github-actions
 
+## 0.4.0
+
+### Minor Changes
+
+- eabe89d38: Show workflow name
+
+### Patch Changes
+
+- Updated dependencies [0b42fff22]
+- Updated dependencies [905cbfc96]
+- Updated dependencies [2089de76b]
+  - @backstage/catalog-model@0.7.4
+  - @backstage/integration@0.5.1
+  - @backstage/core@0.7.1
+  - @backstage/theme@0.2.4
+
 ## 0.3.5
 
 ### Patch Changes

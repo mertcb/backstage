@@ -1,5 +1,13 @@
 # @backstage/plugin-explore-react
 
+## 0.0.4
+
+### Patch Changes
+
+- c9b5c1eca: Standardize the tool cards in explore some more
+- Updated dependencies [2089de76b]
+  - @backstage/core@0.7.1
+
 ## 0.0.3
 
 ### Patch Changes

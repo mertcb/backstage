@@ -1,5 +1,27 @@
 # @backstage/plugin-catalog
 
+## 0.4.2
+
+### Patch Changes
+
+- 0b42fff22: Make use of parseLocationReference/stringifyLocationReference
+- 9f7dc10fb: Show a Not Found message when navigating to a nonexistent entity
+- 93c62c755: Move logic for generating URLs for the view, edit and source links of catalog
+  entities from the catalog frontend into the backend. This is done using the
+  existing support for the `backstage.io/view-url`, `backstage.io/edit-url` and
+  `backstage.io/source-location` annotations that are now filled by the
+  `AnnotateLocationEntityProcessor`. If these annotations are missing or empty,
+  the UI disables the related controls.
+- Updated dependencies [0b42fff22]
+- Updated dependencies [0b42fff22]
+- Updated dependencies [905cbfc96]
+- Updated dependencies [2089de76b]
+  - @backstage/catalog-model@0.7.4
+  - @backstage/catalog-client@0.3.7
+  - @backstage/integration@0.5.1
+  - @backstage/core@0.7.1
+  - @backstage/theme@0.2.4
+
 ## 0.4.1
 
 ### Patch Changes

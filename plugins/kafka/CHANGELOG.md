@@ -1,5 +1,16 @@
 # @backstage/plugin-kafka
 
+## 0.2.6
+
+### Patch Changes
+
+- 8f72318fe: Added lag column in the plugin main table
+- Updated dependencies [0b42fff22]
+- Updated dependencies [2089de76b]
+  - @backstage/catalog-model@0.7.4
+  - @backstage/core@0.7.1
+  - @backstage/theme@0.2.4
+
 ## 0.2.5
 
 ### Patch Changes

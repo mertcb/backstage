@@ -1,5 +1,42 @@
 # @backstage/create-app
 
+## 1.0.0
+
+### Patch Changes
+
+- Updated dependencies [0b42fff22]
+- Updated dependencies [0b42fff22]
+- Updated dependencies [c532c1682]
+- Updated dependencies [761698831]
+- Updated dependencies [aa095e469]
+- Updated dependencies [761698831]
+- Updated dependencies [9f7dc10fb]
+- Updated dependencies [eabe89d38]
+- Updated dependencies [93c62c755]
+- Updated dependencies [2089de76b]
+- Updated dependencies [c9b5c1eca]
+- Updated dependencies [2089de76b]
+- Updated dependencies [868e4cdf2]
+- Updated dependencies [02d78290a]
+- Updated dependencies [a501128db]
+- Updated dependencies [5f1b7ea35]
+- Updated dependencies [5ab5864f6]
+  - @backstage/catalog-model@0.7.4
+  - @backstage/catalog-client@0.3.7
+  - @backstage/plugin-catalog-backend@0.6.5
+  - @backstage/plugin-catalog@0.4.2
+  - @backstage/plugin-scaffolder-backend@0.9.1
+  - @backstage/backend-common@0.5.6
+  - @backstage/plugin-techdocs-backend@0.6.4
+  - @backstage/plugin-techdocs@0.6.1
+  - @backstage/plugin-auth-backend@0.3.4
+  - @backstage/plugin-github-actions@0.4.0
+  - @backstage/core@0.7.1
+  - @backstage/theme@0.2.4
+  - @backstage/plugin-explore@0.3.1
+  - @backstage/plugin-scaffolder@0.7.1
+  - @backstage/cli@0.6.4
+
 ## 0.3.12
 
 ### Patch Changes
